@@ -1,4 +1,4 @@
-Hi there 👋 I'm Quan Phan, hailing from Viet Nam. I'm currently a first-year undergraduate :man_student: at Colby College.
+Hi there 👋 I'm Quan Phan, hailing from Viet Nam. I'm currently a second-year undergraduate at Colby College :man_student: and a data analyst/product management intern @ Holistics Data.
 
 I’m super interested in Machine Learning and Data Science in Agriculture and Environmental Science 👀
 
