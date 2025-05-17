@@ -1,1 +1,1 @@
-College senior with 3 summers building at different startups.
+I enjoy figuring out what REALLY bothers people and solve it. start small, scale later.
